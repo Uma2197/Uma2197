@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Uma 👋
 
-<!--
-**Uma2197/Uma2197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst with 2.5 years of experience working with large datasets at Amazon, now studying M.Sc. Computer Science at TU Dresden. I hold an M.Sc. in Data Science, AI and Digital Business.
 
-Here are some ideas to get you started:
+**What I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL, Python (Pandas, NumPy, Scikit-learn), pytest, Sphinx
+- Power BI, Tableau, Looker Studio
+- LLMs, prompt engineering, RAG pipelines, agentic AI, Claude Code
+
+**Projects worth a look**
+
+- [BASF Case Study](https://github.com/Uma2197/BASF_Case_Study) – anomaly detection on battery data, tested and documented
+- [ML Pipelines](https://github.com/Uma2197/ML_Pipelines) – end-to-end ML workflow from data quality to model evaluation
+- [Restaurant Info API](https://github.com/Uma2197/restaurant-info-api) – Python app fetching live data from a REST API
+
+📍 Germany · [LinkedIn](https://linkedin.com/in/umamaheswari-nagalingam)
